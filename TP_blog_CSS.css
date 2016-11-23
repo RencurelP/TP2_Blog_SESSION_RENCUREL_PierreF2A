@@ -1,0 +1,26 @@
+body
+{
+	background-color: grey;
+}
+
+h1
+{
+	text-align: center;
+}
+
+footer
+{
+	margin-top: 50px;	/*laisse un espace entre la zone de texte et le bouton permettant d'écrire */
+}
+
+#header
+{
+	margin-bottom: 100px;
+	overflow-y: auto;	/*ajoute une scroll bar dans la zone dédiée aux posts lorsque les posts dépassent la taille de la zone dédiée */
+	height: 300px;
+}
+
+header
+{
+	background-color: white;	/*la zone de texte sera blanche, afin de distinguer aisément les posts du reste */
+}
